@@ -55,7 +55,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Brightness: 0.03
+    - _Brightness: 0.02
     - _BumpScale: 1
     - _Cutoff: 0.778
     - _DetailNormalMapScale: 1
@@ -82,7 +82,7 @@ Material:
     - _Thickness: -0.03
     - _Tiling: 1
     - _UVSec: 0
-    - _Value: 0.51
+    - _Value: 0.7
     - _ZWrite: 0
     m_Colors:
     - _BaseColour: {r: 0, g: 0, b: 0, a: 0}
